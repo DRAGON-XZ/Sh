@@ -689,7 +689,7 @@ if ($deliverymethodtype == 'NONE') {
                     'presentmentCurrency' => $address['currency'],
                     'countryCode' => $address['country']
                 ],
-                'email' => 'amanpandey132aman@gmail.com',
+                'email' => 'itzdragon001@gmail.com',
                 'emailChanged' => false,
                 'phoneCountryCode' => $address['country'],
                 'marketingConsent' => [],
