@@ -847,7 +847,7 @@ if ($deliverymethodtype == 'NONE') {
                     'presentmentCurrency' => $address['currency'],
                     'countryCode' => $address['country']
                 ],
-                'email' => 'sidhumehak572@gmail.com',
+                'email' => 'itzdragon001@gmail.com',
                 'emailChanged' => false,
                 'phoneCountryCode' => $address['country'],
                 'marketingConsent' => [],
